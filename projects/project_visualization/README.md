@@ -26,15 +26,15 @@
 
 def get_credit_score_cat(credit_score):
     if credit_score >= 300 and credit_score < 500:
-        <code>return "Very_Poor"
+        return "Very_Poor"
     elif credit_score >= 500 and credit_score < 601:
-        <code>return "Poor"
+        return "Poor"
     elif credit_score >= 601 and credit_score < 661:
-        <code>return "Fair"
+        return "Fair"
     elif credit_score >= 661 and credit_score < 781:
-        <code>return "Good"
+        return "Good"
     elif credit_score >= 781 and credit_score < 851:
-        <code>return "Excellent"
+        return "Excellent"
     elif credit_score >= 851:
         return "Top"
     elif credit_score < 300:
