@@ -25,10 +25,10 @@
 
 ```ruby
 def get_credit_score_cat(credit_score):
-    'if credit_score >= 300 and credit_score < 500:'
-        'return "Very_Poor"'
-    'elif credit_score >= 500 and credit_score < 601:'
-        'return "Poor"'
+    if credit_score >= 300 and credit_score < 500:
+        return "Very_Poor"
+    elif credit_score >= 500 and credit_score < 601:
+        return "Poor"
     elif credit_score >= 601 and credit_score < 661:
         return "Fair"
     elif credit_score >= 661 and credit_score < 781:
