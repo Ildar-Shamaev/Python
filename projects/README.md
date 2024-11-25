@@ -6,6 +6,10 @@
 
 **project_game** - Проект. Угадай число
 
+project_tasks_from_interviews
+
 **project_markdown** - Проект по изучению языка разметки Markdown
+
+**project_tasks_from_interviews** - Проект по задачам с собеседований
 
 **project_visualization** - Проект по визуализации данных
