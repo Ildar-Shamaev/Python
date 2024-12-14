@@ -2,13 +2,11 @@
 
 **PROJECT_1** - Анализ резюме из HeadHunter
 
+**project_clearing** - Проект по очистке данных
+
 **project_cycle** - Практическое задание по теме "Циклы"
 
 **project_game** - Проект. Угадай число
-
-project_tasks_from_interviews
-
-**project_markdown** - Проект по изучению языка разметки Markdown
 
 **project_tasks_from_interviews** - Проект по задачам с собеседований
 
